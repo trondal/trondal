@@ -2,6 +2,7 @@
 
 ## Certificates
 ![Beginners TypeScript](https://res.cloudinary.com/total-typescript/image/upload/v1735918259/certificate/8ab0803e-b4b2-4bf2-b927-a8efd7fd5517/beginners-typescript.png)
+![Zod](https://res.cloudinary.com/total-typescript/image/upload/v1738313587/certificate/8ab0803e-b4b2-4bf2-b927-a8efd7fd5517/zod.png)
 
 <!--
 **trondal/trondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
